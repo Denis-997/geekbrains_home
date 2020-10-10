@@ -1,0 +1,5 @@
+This lesson discusses aspects of working with files to extract data and record the results of the program.
+The mechanisms of reading and writing data, modes of working with files are considered.
+Such an important concept as a context manager is considered, and common errors when working with files are described.
+The specifics of determining the position of the pointer in a file, possible parameters of file objects,
+and features of the implementation of printing to a file are given.
